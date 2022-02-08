@@ -3,7 +3,7 @@ Data Warehousing
 
 # DATA WAREHOUSING
 
-In this section, we will discuss about Data Warehousing, different approaches and it's design methods.
+In this section, we will discuss about Data warehousing, architecture and different approaches
 
 <br>
 

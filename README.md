@@ -138,8 +138,8 @@ Complete control over the four main areas of data management systems:
 
 <h2 id='ref'>7. References</h2>
 
->https://www.javatpoint.com/data-warehouse-etl-vs-elt
+* https://www.javatpoint.com/data-warehouse-etl-vs-elt
  
->https://www.geeksforgeeks.org/characteristics-and-functions-of-data-warehouse/
+* https://www.geeksforgeeks.org/characteristics-and-functions-of-data-warehouse/
    
->https://www.itprotoday.com/sql-server/7-steps-data-warehousing
+* https://www.itprotoday.com/sql-server/7-steps-data-warehousing
